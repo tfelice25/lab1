@@ -10,3 +10,5 @@ This lab contains two exercises:
 Try to do both of these!
 
 Good luck!
+
+done
